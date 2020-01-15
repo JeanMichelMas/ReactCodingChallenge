@@ -14,7 +14,7 @@ To be completed entirely, this challenge is expected to take about 2-3 hours. It
 
 It's pretty simple. Using the provided screens as a reference, you'll need to build a set of React components to render the app. You'll also need to request a JSON feed, filter that data, and use the relevant fields.
 
-Although this is a basic exercise, we'll be looking for **simple, well-designed, performant, and tested code** in the submission. Please use Typescript !
+Although this is a basic exercise, we'll be looking for **simple, well-designed, performant, and tested code** in the submission. **Please use Typescript !**
 
 Please also include a `README` with setup instructions, and any tests or other documentation you created as part of your solution.
 
@@ -77,7 +77,7 @@ You will also need to handle the loading and error states of fetching the JSON f
 - "Loading" state [screens/1.1-loading.jpg](./screens/1.1-loading.jpg)
 - "Error" state [screens/1.2-error.jpg](./screens/1.2-error.jpg)
 
-TIP: work with a state manager here!
+**TIP: work with a state manager here!**
 
 ## FAQ
 
@@ -91,7 +91,6 @@ We also prefer the use of minimal dependencies.
 
 ## Useful Links
 
-- [Bitbucket](https://bitbucket.org/) - Source code hosting, with free private repositories for small teams.
 - [Google Fonts - Raleway](https://fonts.google.com/?selection.family=Raleway)
 - [React](https://facebook.github.io/react/)
 
